@@ -3,7 +3,7 @@ Repository with code for presentation on derivatives hedging with greeks for the
 
 ---
 
-<img align="left" src="https://github.com/PiotMik/GreeksHedging/blob/main/DeltaGammaHedge.png">
+<img width=500 align="left" src="https://github.com/PiotMik/GreeksHedging/blob/main/DeltaGammaHedge.png">
 
 
 ### Instructions
