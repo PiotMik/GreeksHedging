@@ -12,8 +12,8 @@ Open [`Greek Hedging.ipynb`](https://github.com/PiotMik/GreeksHedging/blob/main/
 ### TOC
 1. GBM trajectory simulation, animation
 2. Delta hedging, delta-gamma hedging
-3. Limitations - real data example, non-normal returns
-4. Vega hedging
+3. Limitations: non-normal returns
+4. Taylor Series and Vega hedging
 <br>
 
 ---
