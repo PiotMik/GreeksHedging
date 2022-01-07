@@ -7,7 +7,7 @@ Repository with code for presentation on derivatives hedging with greeks for the
 
 
 ### Instructions
-Open [`Greek Hedging.ipynb`](https://github.com/PiotMik/GreeksHedging/blob/main/Greek%20Hedging.ipynb) for the main walkthrough on GBM simulation and numerical examples regarding delta and delta-gamma hedging.
+Open [`Greek Hedging.ipynb`](https://github.com/PiotMik/GreeksHedging/blob/main/Greek%20Hedging.ipynb) for numerical examples regarding delta and delta-gamma hedging.
 
 ### TOC
 1. GBM trajectory simulation, animation
